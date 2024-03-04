@@ -1,3 +1,1 @@
-# Random
-# Random
 # RandomJavaProject
